@@ -5,7 +5,7 @@
 - [Milestones](milestones)
   - [v1 ("The Wheel")](milestones/v1/)
 - [Style](style)
-  - [Documentation](documentation)
+  - [Documentation](style/documentation)
 - [Legal](legal)\*
   - [License Agreement](legal/license-agreement)\*
   - [Privacy Policy](legal/privacy-policy)\*
