@@ -8,4 +8,4 @@
 - [Getting Started](getting-started)\*
 - [Releases](releases)\*
 
-\*Coming soon
+\* Coming Soon
