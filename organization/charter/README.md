@@ -1,6 +1,6 @@
-# Cryorithm(TM) | Documentation | Organization | Charter
+# Cryorithm™ | Organization | Charter
 
-Cryorithm is an open-source software guild focused on developing modular components (e.g., "predictors") for investment strategies. Our goal is to empower individuals to build personalized investment tools without compromising their financial data privacy. We believe in fostering a collaborative environment built on shared ownership and best-effort contributions.
+Cryorithm™ is an open-source software guild focused on developing modular components (e.g., "predictors") for investment strategies. Our goal is to empower individuals to build personalized investment tools without compromising their financial data privacy. We believe in fostering a collaborative environment built on shared ownership and best-effort contributions.
 
 ## Core Values
 

@@ -1,4 +1,4 @@
-# Cryorithm(TM) | Documentation | Milestones
+# Cryorithm™ | Milestones
 
 ## Epoch 1: [Civ4 Technologies](https://civilization.fandom.com/wiki/List_of_technologies_in_Civ4)
 
