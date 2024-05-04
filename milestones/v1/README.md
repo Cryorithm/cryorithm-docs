@@ -1,7 +1,9 @@
-# Cryorithm(TM) | Documentation | Milestones | v1 ("The Wheel")
+# Cryorithm™ | Milestones | v1 ("The Wheel")
 
 **Status:** _Under Construction_
 
 - [Architecture](architecture)
-- [Getting Started](getting-started) _(Placeholder)_
-- [Releases](releases) _(Placeholder)_
+- [Getting Started](getting-started)\*
+- [Releases](releases)\*
+
+\*Coming soon

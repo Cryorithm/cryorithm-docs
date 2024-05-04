@@ -1,3 +1,3 @@
-# Cryorithm(TM) | Documentation | Organization
+# Cryorithm™ | Organization
 
 - [Charter](charter)
