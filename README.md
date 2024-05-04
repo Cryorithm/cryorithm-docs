@@ -11,4 +11,4 @@
   - [Privacy Policy](legal/privacy-policy)\*
   - [Terms of Service](legal/terms-of-service)\*
 
-\*Coming Soon
+\* Coming Soon
