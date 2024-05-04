@@ -1,10 +1,10 @@
-# Cryorithm(TM) | Documentation | Milestones | v1 ("The Wheel") | Architecture
+# Cryorithm™ | Milestones | v1 ("The Wheel") | Architecture
 
 **Status:** EARLY DRAFT
 
 ## Introduction
 
-Cryorithm(TM) is an innovative, open-source, community-driven self-deployed platform
+Cryorithm™ is an innovative, open-source, community-driven self-deployed platform
 designed to empower individuals to manage and optimize their financial futures.
 Utilizing a distributed plugin architecture composed of various financial predictors,
 Cryorithm provides customized investment recommendations by aggregating insights from
@@ -13,7 +13,7 @@ that users can trust the reliability and integrity of the information provided.
 
 ## Overview
 
-Version 1 of Cryorithm(TM), affectionately nicknamed "The Wheel", represents the
+Version 1 of Cryorithm™, affectionately nicknamed "The Wheel", represents the
 foundational step toward leveraging high technology for personal finance management.
 Inspired by the pivotal advancements in
 [Civilization IV](https://civilization.fandom.com/wiki/List_of_technologies_in_Civ4),
