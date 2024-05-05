@@ -33,7 +33,7 @@ reflects the organization of the documentation. This format should include the o
 followed by the broader documentation category, and then the specific topic:
 
 ```
-# Cryorithm | [Category] | [Specific Topic]
+# Cryorithm™ | [Category] | [Specific Topic]
 ```
 
 #### Examples:
