@@ -22,6 +22,29 @@ Inspired by the pivotal advancements in
 "The Wheel" sets a robust groundwork for subsequent releases, each intended to
 progressively enhance and refine our approach to financial technology.
 
+## Diagrams
+
+### Diagram 1: Sensor to LLM Fan-In
+
+```mermaid
+flowchart LR
+    sensor1(Sensor 1) -->|Signal| LLM
+    sensor2(Sensor 2) -->|Signal| LLM
+    sensor3(Sensor 3) -->|Signal| LLM
+    sensor4(Sensor 4) -->|Signal| LLM
+
+    LLM[LLM] -->|Summarize State| summary[Summary]
+    LLM -->|Answer Queries| interface[User Interface]
+
+    classDef sensors stroke:#333,stroke-width:2px;
+    classDef llm stroke:#333,stroke-width:2px;
+    classDef output stroke:#333,stroke-width:2px;
+
+    class sensor1,sensor2,sensor3,sensor4 sensors;
+    class LLM llm;
+    class summary,interface output;
+```
+
 ### Components
 
 **Predictors (Plugins)**: Diverse algorithms located both locally and remotely,
