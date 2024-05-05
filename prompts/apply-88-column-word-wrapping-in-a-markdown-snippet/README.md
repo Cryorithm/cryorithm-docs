@@ -1,4 +1,4 @@
-# Cryorithm | Prompts | Apply 88-Column Word Wrapping in a Markdown Snippet
+# Cryorithm™ | Prompts | Apply 88-Column Word Wrapping in a Markdown Snippet
 
 If you'd like to request GPT or any other model to handle Markdown formatting so that
 lines are word-wrapped before reaching 88 columns, here's a prompt you can use:

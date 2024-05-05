@@ -1,8 +1,8 @@
-# Prompts | Evolve an Engineered Prompt
+# Cryorithm™ | Prompts | Evolve an Engineered Prompt
 
 You can evolve an engineered prompt by applying prompt recursion.
 
-Prompt recursion is a robust tool designed for crafting customized prompts to
+The Immutable Prompt™ is a robust tool designed for crafting customized prompts to
 streamline interactions with large language models (LLMs). It simplifies processes
 ranging from complex queries to routine task automation by tailoring prompts according
 to your unique requirements.
@@ -10,7 +10,7 @@ to your unique requirements.
 ## Introduction
 
 This guide is tailored for users who aim to optimize their use of LLMs through
-precise, reusable prompts. prompt recursion provides essential assistance after an
+precise, reusable prompts. Prompt recursion provides essential assistance after an
 initial detailed interaction session.
 
 ## How It Works
@@ -35,7 +35,7 @@ The creation of customized prompts with prompt recursion unfolds across several 
 - **Providing Feedback**: Your feedback is invaluable for refining shortcut
    effectiveness and enhancing overall system performance.
 
-## Immutable Prompt
+## Immutable Prompt™
 
 ```markdown
 Initiate a conversational session with the user to discern their specific needs
