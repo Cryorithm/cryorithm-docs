@@ -3,7 +3,7 @@
 - [Organization](organization)
   - [Charter](organization/charter)
 - [Milestones](milestones)
-  - [v1 ("The Wheel")](milestones/v1/)
+  - [v1 (The Wheel)](milestones/v1/)
 - [Style](style)
   - [Documentation](style/documentation)
 - [Prompts](prompts)
